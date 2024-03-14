@@ -12,3 +12,7 @@
 ### Do while
 
 ![](/Capitulo%20III/img/3.doWhile.png)
+
+Arrow fuction
+
+() =>
