@@ -1,3 +1,5 @@
-#
+# CAPITULO IV
 
-![](/Capitulo%20IV/img/)
+## Array
+
+![](/Capitulo%20IV/img/4.array.png)
